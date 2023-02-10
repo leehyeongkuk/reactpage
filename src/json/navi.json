@@ -1,0 +1,20 @@
+{ "naviDB" : 
+[
+  {
+    "naviText" : "Portfolio",
+    "naviLink" : "#portfolio"
+                  },
+  {
+    "naviText" : "About ME",
+    "naviLink" : "#me"
+                  },
+  {
+    "naviText" : "Pre-Interview",
+    "naviLink" : "#preInterview"
+                  },
+  {
+    "naviText" : "Contact ME",
+    "naviLink" : "#contact"
+                  }
+  ]
+}

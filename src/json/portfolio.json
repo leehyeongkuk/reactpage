@@ -1,0 +1,21 @@
+{
+    "portfolio" : 
+  [
+  {
+    "worktitle" : "기획 광고페이지",
+    "worktime" : "1주",
+    "co" : "단독작업",
+    "app" :  ["illust","photoshop","v-code"],
+    "cls" : "boot",
+    "href": "https://www.naver.com"
+  },
+  {
+    "worktitle" : "쇼핑몰 작업 중",
+    "worktime" : "4주",
+    "co" : "단독작업",
+    "app" :  ["illust","photoshop","v-code"],
+    "cls" : "sir",
+    "href" : "https://leehkuk0704.cafe24.com/"
+  }
+  ]
+}
